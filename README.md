@@ -62,3 +62,5 @@ useInput()함수에 의해 const name에는 value와 onChange 데이터를 가�
     <input placeholder="Name" {...name} />      
 </code>
 위와 같이 webpack에서 지원하는 방식으로 대입할 수 있습니다.       
+
+###useTabs
